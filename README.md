@@ -1,3 +1,5 @@
+[Go Back to Mastoget](https://mastoget.x10.bz)  
+
 # About Mastoget
 
 Mastoget is your feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
