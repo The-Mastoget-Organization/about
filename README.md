@@ -17,7 +17,7 @@ We use relays so that the entire Mastoget network will not fall when the traffic
 
 
 ## Main Processor
-It gathers the data from a relay.<br]
+It gathers the data from a relay.<br>
 ✓Mastoget - x10 Hosting<br>
 Note: Soon to redirect in a Vercel processor.
 
