@@ -18,12 +18,16 @@ We use relays so that the entire Mastoget network will not fall when the traffic
 [Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)
 
 ## Redirector
-Used to redirect main indexed traffic to the main processor.<br>
+Used to redirect main indexed traffic to the main processor or to the emergency processor.<br>
 ✓Mastoget - x10 Hosting
 
 ## Main Processor
 It gathers the data from a relay.<br>
 ✓Mastogetprocessor - Vercel
+
+## Emergency Processor
+In case that the main processor is down, a processor located on the same server as the redirector. Its performance was not great but atleast its there to make sure that our system will avoid downtimes.<br>
+✓Mastoget (Emergency.PHP) - x10 Hosting
 
 ## Current Active Relays
 It gathers the data from various Mastodon servers.<br>
@@ -37,9 +41,13 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget8 - Vercel
 
 ## Content Delivery Network 
-It is used for delivering vital assets like the Mastoget logo.<br>
-✓Mastoget - x10 Hosting (Former Main Processor)<br>
-Note: To be replaced by cloudinary soon.
+It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
+✓Cloudinary
+
+
+## Check First before Redirect Technology
+This technology does check first if the relay or processor is up before redirecting thus avoiding the user to land into an error page.<br><br>
+Important Note: As of the moment, it is only implemented on the redirector level, so that if Vercel is down it will not be used anymore and will rely on an emergency processor. The implementation of the said technology in the processor level is still under development.
 
 &copy; The Mastoget Organization. All Rights Reserved.
 
