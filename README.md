@@ -40,14 +40,17 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget7 - Vercel<br>
 ✓Masget8 - Vercel
 
+## Critical Relay
+This relay is only used when a big subsets of active relays are down.<br>
+✓Mastoget-Critical - x10 Hosting
+
 ## Content Delivery Network 
 It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
 ✓Cloudinary
 
 
-## Check First before Redirect Technology
-This technology does check first if the relay or processor is up before redirecting thus avoiding the user to land into an error page.<br><br>
-Important Note: As of the moment, it is only implemented on the redirector level, so that if Vercel is down it will not be used anymore and will rely on an emergency processor. The implementation of the said technology in the processor level is still under development.
-
+## Check First before Redirect Technique
+This technique does first check if the relay or the processor is up before redirecting thus avoiding the user to land into an error page.
+<br><br>
 &copy; The Mastoget Organization. All Rights Reserved.
 
