@@ -5,6 +5,8 @@
 Mastoget is your feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 <br>
 Mastoget can retrieve 5 randomly selected Mastodon-servers at a time; this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon servers. 
+<br>
+We use relays so that the entire Mastoget network will not fall 
 
 
 [Mastodon Profile](https://mastodon.social/@mastoget)  
@@ -14,16 +16,19 @@ Mastoget can retrieve 5 randomly selected Mastodon-servers at a time; this is to
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)
 
 
-## Current Active Servers
+## Main Site
+✓Mastoget - x10 Hosting
+
+## Current Active Relays
 ✓Masget1 - x10 Hosting<br>
 ✓Masget2 - x10 Hosting<br>
 ✓Masget3 - x10 Hosting<br>
 ✓Masget4 - x10 Hosting<br>
 
 
-## Upcoming Servers
-✓Masget 5 - Vercel<br>
-✓Masget 6 - Vercel<br>
+## Upcoming Relays
+•Masget 5 - Vercel<br>
+•Masget 6 - Vercel<br>
 
 &copy; The Mastoget Organization. All Rights Reserved.
 
