@@ -1,4 +1,4 @@
-[Go Back to Mastoget](https://mastoget.x10.bz)  
+.f  .v[Go Back to Mastoget](https://mastoget.x10.bz)  
 
 # About Mastoget
 
@@ -15,11 +15,13 @@ We use relays so that the entire Mastoget network will not fall when the traffic
 [Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)  
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)
 
+## Redirector
+Used to redirect main indexed traffic to the main processor.<br>
+✓Mastoget - x10 Hosting
 
 ## Main Processor
 It gathers the data from a relay.<br>
-✓Mastoget - x10 Hosting<br>
-Note: Soon to redirect in a Vercel processor.
+✓Mastogetprocessor - Vercel
 
 ## Current Active Relays
 It gathers the data from various Mastodon servers.<br>
@@ -27,13 +29,15 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget2 - x10 Hosting<br>
 ✓Masget3 - x10 Hosting<br>
 ✓Masget4 - x10 Hosting<br>
+✓Masget5 - Vercel<br>
+✓Masget6 - Vercel<br>
+✓Masget7 - Vercel<br>
+✓Masget8 - Vercel
 
-
-## Upcoming Relays
-•Masget5 - Vercel<br>
-•Masget6 - Vercel<br>
-•Masget7 - Vercel<br>
-•Masget8 - Vercel
+## Content Delivery Network 
+It is used for delivering vital assets like the Mastoget logo.<br>
+✓Mastoget - x10 Hosting (Former Main Processor)<br>
+Note: To be replaced by cloudinary soon.
 
 &copy; The Mastoget Organization. All Rights Reserved.
 
