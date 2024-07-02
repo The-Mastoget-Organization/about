@@ -6,7 +6,7 @@ Mastoget is your feed retriever for the Mastodon network. This amazing site feed
 <br><br>
 Mastoget can retrieve 5 randomly selected Mastodon-servers at a time; this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon servers. 
 <br><br>
-We use relays so that the entire Mastoget network will not fall when the traffic boosts up.
+We use relays and processors so that the entire Mastoget system will not fall when the traffic boosts up and to avoid downtimes.
 
 
 [Mastodon Profile](https://mastodon.social/@mastoget)  <br>
