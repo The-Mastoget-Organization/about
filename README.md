@@ -9,12 +9,12 @@ Mastoget can retrieve 5 randomly selected Mastodon-servers at a time; this is to
 We use relays so that the entire Mastoget network will not fall when the traffic boosts up.
 
 
-[Mastodon Profile](https://mastodon.social/@mastoget)  
-[Github Profile](https://github.com/The-Mastoget-Organization/)  
-[Source Code](https://github.com/The-Mastoget-Organization/source)  
-[Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)  
-[Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)
-[Servers List](https://github.com/The-Mastoget-Organization/servers-list)
+[Mastodon Profile](https://mastodon.social/@mastoget)  <br>
+[Github Profile](https://github.com/The-Mastoget-Organization/)  <br>
+[Source Code](https://github.com/The-Mastoget-Organization/source)  <br>
+[Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)<br>
+[Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)<br>
+[Mastodon Supported Servers/Instances List](https://github.com/The-Mastoget-Organization/servers-list)
 
 ## Redirector
 Used to redirect main indexed traffic to the main processor.<br>
