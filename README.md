@@ -1,4 +1,4 @@
-.f  .v[Go Back to Mastoget](https://mastoget.x10.bz)  
+[Go Back to Mastoget](https://mastoget.x10.bz)  
 
 # About Mastoget
 
