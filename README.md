@@ -16,11 +16,13 @@ We use relays so that the entire Mastoget network will not fall when the traffic
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)
 
 
-## Main Site
+## Main Processor
+It gathers the data from a relay.<br]
 ✓Mastoget - x10 Hosting<br>
 Note: Soon to redirect in a Vercel processor.
 
 ## Current Active Relays
+It gathers the data from various Mastodon servers.<br>
 ✓Masget1 - x10 Hosting<br>
 ✓Masget2 - x10 Hosting<br>
 ✓Masget3 - x10 Hosting<br>
