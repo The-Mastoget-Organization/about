@@ -4,7 +4,8 @@
 
 Mastoget is your feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 
-At least for now, Mastoget can only retrieve posts from 5 randomly selected servers at a time; this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon servers.
+Mastoget can retrieve 5 randomly selected Mastodon-servers at a time; this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon servers. 
+
 
 [Mastodon Profile](https://mastodon.social/@mastoget)  
 [Github Profile](https://github.com/The-Mastoget-Organization/)  
