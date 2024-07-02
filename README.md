@@ -30,8 +30,10 @@ It gathers the data from various Mastodon servers.<br>
 
 
 ## Upcoming Relays
-•Masget 5 - Vercel<br>
-•Masget 6 - Vercel<br>
+•Masget5 - Vercel<br>
+•Masget6 - Vercel<br>
+•Masget7 - Vercel<br>
+•Masget8 - Vercel
 
 &copy; The Mastoget Organization. All Rights Reserved.
 
