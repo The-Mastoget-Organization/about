@@ -14,6 +14,7 @@ We use relays so that the entire Mastoget network will not fall when the traffic
 [Source Code](https://github.com/The-Mastoget-Organization/source)  
 [Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)  
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)
+[Servers List](https://github.com/The-Mastoget-Organization/servers-list)
 
 ## Redirector
 Used to redirect main indexed traffic to the main processor.<br>
