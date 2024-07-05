@@ -57,9 +57,11 @@ This relay is only used when big subsets of active relays are down. This bypasse
 It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
 ✓Cloudinary
 
-
-## Check First before Redirect Technique
+### Check First before Redirect Technique
 This technique does first check if the relay or the processor is up before redirecting thus avoiding the user to land into an error page.
+
+### Contact Information
+As of the moment, TheDoggyBrad Software Labs handles the communications for Mastoget. You may reach him via email at admin@gosocial.x10.bz.
 <br><br>
 &copy; The Mastoget Organization. All Rights Reserved.
 
