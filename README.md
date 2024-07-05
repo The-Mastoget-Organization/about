@@ -4,7 +4,7 @@
 
 Mastoget is your feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 <br><br>
-Mastoget can retrieve 2 to 10 randomly selected Mastodon-servers at a time depending on the relay you are connected to, this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon instances. 
+Mastoget can retrieve 5 to 10 randomly selected Mastodon-servers at a time depending on the relay you are connected to, this is to avoid overloading this site's servers as every visitor visit means an individual request to these Mastodon instances. 
 <br><br>
 We use relays and processors so that the entire Mastoget system will not fall when the traffic boosts up and to avoid downtimes.
 
