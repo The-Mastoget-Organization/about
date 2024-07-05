@@ -2,7 +2,7 @@
 
 # About Mastoget
 
-Mastoget is your feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
+Mastoget is your decentralized feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 <br><br>
 Mastoget can retrieve 10 randomly selected Mastodon-instances at a time this is to avoid overloading this site's servers (despite we are expanding our systems) as every visitor visit means an individual request to these Mastodon instances. 
 <br><br>
