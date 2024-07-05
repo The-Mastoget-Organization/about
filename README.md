@@ -29,7 +29,7 @@ It gathers the data from a relay.<br>
 ✓Mastoprocessor - Vercel
 
 ## Emergency Processor
-In case that the main processor is down, a processor located on the same server as the redirector. Its performance was not great but atleast its there to make sure that our system will avoid downtimes.<br>
+In case that the main processors are down, a processor located on the same server as the redirector. Its performance was not great but atleast its there to make sure that our system will avoid downtimes.<br>
 ✓Mastoget (Emergency.PHP) - x10 Hosting
 
 ## Current Active Relays
