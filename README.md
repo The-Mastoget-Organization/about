@@ -21,9 +21,12 @@ We use relays and processors so that the entire Mastoget system will not fall wh
 Used to redirect main indexed traffic to the main processor or to the emergency processor.<br>
 ✓Mastoget - x10 Hosting
 
-## Main Processor
+## Main Processors
 It gathers the data from a relay.<br>
-✓Mastogetprocessor - Vercel
+✓Mastogetprocessor - Vercel<br>
+✓Getmasprocessor - Vercel<br>
+✓Masgetprocessor - Vercel<br>
+✓Mastoprocessor - Vercel
 
 ## Emergency Processor
 In case that the main processor is down, a processor located on the same server as the redirector. Its performance was not great but atleast its there to make sure that our system will avoid downtimes.<br>
@@ -40,8 +43,8 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget7 - Vercel<br>
 ✓Masget8 - Vercel
 
-## Critical Relay
-This relay is only used when a big subsets of active relays are down.<br>
+## Critical Relay (Processor Bypass)
+This relay is only used when a big subsets of active relays are down. This bypasses the processors.<br>
 ✓Mastoget-Critical - x10 Hosting
 
 ## Content Delivery Network 
