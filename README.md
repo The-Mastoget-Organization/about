@@ -41,9 +41,7 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget5 - Vercel<br>
 ✓Masget6 - Vercel<br>
 ✓Masget7 - Vercel<br>
-✓Masget8 - Vercel
-
-## Upcoming Relays
+✓Masget8 - Vercel<br>
 ✓Masget9 - Vercel<br>
 ✓Masget10 - Vercel
 
