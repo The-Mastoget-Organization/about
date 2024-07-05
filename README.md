@@ -14,7 +14,7 @@ We use relays and processors so that the entire Mastoget system will not fall wh
 [Source Code](https://github.com/The-Mastoget-Organization/source)  <br>
 [Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)<br>
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)<br>
-[Mastodon Servers/Instances List](https://github.com/The-Mastoget-Organization/servers-list)<br>
+[Mastodon Instances List](https://github.com/The-Mastoget-Organization/servers-list)<br>
 [Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)
 
 ## Redirector
@@ -33,7 +33,7 @@ In case that the main processors are down, a processor located on the same serve
 ✓Mastoget (Emergency.PHP) - x10 Hosting
 
 ## Current Active Relays
-It gathers the data from various Mastodon servers.<br>
+It gathers the data from various Mastodon instances.<br>
 ✓Masget1 - x10 Hosting<br>
 ✓Masget2 - x10 Hosting<br>
 ✓Masget3 - x10 Hosting<br>
