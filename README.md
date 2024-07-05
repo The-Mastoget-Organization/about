@@ -18,7 +18,7 @@ We use relays and processors so that the entire Mastoget system will not fall wh
 [Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)
 
 ## Redirector
-Used to redirect main indexed traffic to the main processor or to the emergency processor.<br>
+Used to redirect main indexed traffic to the main processors or to the emergency processor.<br>
 ✓Mastoget - x10 Hosting
 
 ## Main Processors
