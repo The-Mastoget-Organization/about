@@ -19,7 +19,7 @@ We use relays and processors so that the entire Mastoget system will not fall wh
 
 
 # Decentralization
-Since June 2024, we started the path of making Mastoget decentralized that it will not depend on a single server nor a single site and it is still ongoing and growing...<br>
+Since June 2024, we started the path of making Mastoget decentralized that it will not depend on a single server nor a single site and it is still ongoing and growing...
 
 ## Redirector
 Used to redirect main indexed traffic to the main processors or to the emergency processor.<br>
