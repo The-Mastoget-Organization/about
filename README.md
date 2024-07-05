@@ -43,6 +43,10 @@ It gathers the data from various Mastodon servers.<br>
 ✓Masget7 - Vercel<br>
 ✓Masget8 - Vercel
 
+## Upcoming Relays
+✓Masget9 - Vercel<br>
+✓Masget10 - Vercel
+
 ## Critical Relay (Processor Bypass)
 This relay is only used when a big subsets of active relays are down. This bypasses the processors.<br>
 ✓Mastoget-Critical - x10 Hosting
