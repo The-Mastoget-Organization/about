@@ -62,7 +62,7 @@ This randomly selects the instances that each relays will load. It is refreshed 
 ✓Generator7.PHP / Instances7.XML / Cron-job.org<br>
 ✓Generator8.PHP / Instances8.XML / Cron-job.org<br>
 ✓Generator9.PHP / Instances9.XML / Cron-job.org<br>
-✓Generator10.PHP / Instances10.XML / Cron-job.org<br>
+✓Generator10.PHP / Instances10.XML / Cron-job.org
 
 ## Critical Relay (Processor Bypass)
 This relay is only used when big subsets of active relays are down. This bypasses the selection of relays.<br>
