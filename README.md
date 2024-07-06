@@ -4,7 +4,7 @@
 
 Mastoget is your decentralized feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 <br><br>
-Mastoget can retrieve 10 randomly selected Mastodon-instances at a time this is to avoid overloading this site's servers (despite we are expanding our systems) as every visitor visit means an individual request to these Mastodon instances. 
+Mastoget can retrieve 20 randomly selected Mastodon-instances at a time this is to avoid overloading this site's servers (despite we are expanding our systems) as every visitor visit means an individual request to these Mastodon instances. 
 <br><br>
 We use relays and processors so that the entire Mastoget system will not fall when the traffic boosts up and to avoid downtimes.
 
@@ -38,16 +38,17 @@ In case that the main processors are down, a processor located on the same serve
 
 ## Current Active Relays
 It gathers the data from various Mastodon instances.<br>
-✓Masget1 - x10 Hosting<br>
-✓Masget2 - x10 Hosting<br>
-✓Masget3 - x10 Hosting<br>
-✓Masget4 - x10 Hosting<br>
-✓Masget5 - Vercel<br>
-✓Masget6 - Vercel<br>
-✓Masget7 - Vercel<br>
-✓Masget8 - Vercel<br>
-✓Masget9 - Vercel<br>
-✓Masget10 - Vercel
+✓Masget1LibreSpeedx10 - x10 Hosting<br>
+✓Masget2LibreSpeedx10 - x10 Hosting<br>
+✓Masget3Mastogetrelayx10 - x10 Hosting<br>
+✓Masget4Mastogetrelayx10 - x10 Hosting<br>
+✓Masget5Vercel - Vercel<br>
+✓Masget6Vercel - Vercel<br>
+✓Masget7Vercel - Vercel<br>
+✓Masget8Vercel - Vercel<br>
+✓Masget9Vercel - Vercel<br>
+✓Masget10Vercel - Vercel<br>
+✓Mastogetrelayx10(11) - x10 Hosting
 
 ## Critical Relay (Processor Bypass)
 This relay is only used when big subsets of active relays are down. This bypasses the selection of relays.<br>
