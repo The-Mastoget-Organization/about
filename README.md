@@ -8,14 +8,15 @@ Mastoget can retrieve 20 randomly selected Mastodon-instances at a time this is 
 <br><br>
 We use relays and processors so that the entire Mastoget system will not fall when the traffic boosts up and to avoid downtimes.
 
-
+<br><br>
+[About Mastoget](https://github.com/The-Mastoget-Organization/about)  <br>
 [Mastodon Profile](https://mastodon.social/@mastoget)  <br>
 [Github Profile](https://github.com/The-Mastoget-Organization/)  <br>
 [Source Code](https://github.com/The-Mastoget-Organization/source)  <br>
 [Privacy Policy](https://github.com/The-Mastoget-Organization/privacypolicy)<br>
 [Terms of Service](https://github.com/The-Mastoget-Organization/termsofservice)<br>
 [Mastodon Instances List](https://github.com/The-Mastoget-Organization/servers-list)<br>
-[Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)
+[Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)<br><br>  
 
 
 # Decentralization
@@ -49,6 +50,19 @@ It gathers the data from various Mastodon instances.<br>
 ✓Masget9Vercel - Vercel<br>
 ✓Masget10Vercel - Vercel<br>
 ✓Mastogetrelayx10(11) - x10 Hosting
+
+## Instances Selector
+This randomly selects the instances that each relays will load. It is refreshed every 10 minutes.<br>
+✓Generator1.PHP / Instances1.XML / Cron-job.org<br>
+✓Generator2.PHP / Instances2.XML / Cron-job.org<br>
+✓Generator3.PHP / Instances3.XML / Cron-job.org<br>
+✓Generator4.PHP / Instances4.XML / Cron-job.org<br>
+✓Generator5.PHP / Instances5.XML / Cron-job.org<br>
+✓Generator6.PHP / Instances6.XML / Cron-job.org<br>
+✓Generator7.PHP / Instances7.XML / Cron-job.org<br>
+✓Generator8.PHP / Instances8.XML / Cron-job.org<br>
+✓Generator9.PHP / Instances9.XML / Cron-job.org<br>
+✓Generator10.PHP / Instances10.XML / Cron-job.org<br>
 
 ## Critical Relay (Processor Bypass)
 This relay is only used when big subsets of active relays are down. This bypasses the selection of relays.<br>
