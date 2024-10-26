@@ -49,7 +49,7 @@ It gathers the data from various Mastodon instances.<br>
 ✓Masget8Vercel - Vercel<br>
 ✓Masget9Vercel - Vercel<br>
 ✓Masget10Vercel - Vercel<br>
-✓Masget11Vercel - Vercel<
+✓Masget11Vercel - Vercel
 
 ## Content Delivery Network 
 It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
