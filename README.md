@@ -39,13 +39,17 @@ In case that the main processors are down, a processor located on the same serve
 
 ## Current Active Relays
 It gathers the data from various Mastodon instances.<br>
-✓Masget1,2,3,4,11 (SHUTTED DOWN DUE TO VERCEL MIGRATION) - To be reimplemented in Vercel<br>
+✓Masget1Vercel - Vercel<br>
+✓Masget2Vercel - Vercel<br>
+✓Masget3Vercel - Vercel<br>
+✓Masget4Vercel - Vercel<br>
 ✓Masget5Vercel - Vercel<br>
 ✓Masget6Vercel - Vercel<br>
 ✓Masget7Vercel - Vercel<br>
 ✓Masget8Vercel - Vercel<br>
 ✓Masget9Vercel - Vercel<br>
 ✓Masget10Vercel - Vercel<br>
+✓Masget11Vercel - Vercel<
 
 ## Content Delivery Network 
 It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
