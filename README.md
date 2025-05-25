@@ -4,7 +4,7 @@
 
 Mastoget is your decentralized feed retriever for the Mastodon network. This amazing site feeds all the public posts posted across the entire Mastodon network to your web browser.
 <br><br>
-Mastoget can retrieve randomly selected Mastodon-instances (CURRENTLY 6) at a time this is to avoid overloading this site's servers (and unstable instances causes Mastoget to blank out) as every visitor visit means an individual request to these Mastodon instances. 
+Mastoget can retrieve posts from 207 Mastodon Instances. Though, limited at first load but due to lazyload (progressive loading), posts from each instances appear one by one as you scroll.
 <br><br>
 We use relays and processors so that the entire Mastoget system will not fall when the traffic boosts up and to avoid downtimes.
 
@@ -46,7 +46,8 @@ It gathers the data from various Mastodon instances.<br>
 ✓Masget8Vercel - Vercel<br>
 ✓Masget9Vercel - Vercel<br>
 ✓Masget10Vercel - Vercel<br>
-✓Masget11Vercel - Vercel
+✓Masget11Vercel - Vercel<br>
+✓Masget12Vercel - Vercel
 
 ## Content Delivery Network 
 It is used for delivering vital assets like the Mastoget logo, Favicons, and Vital Files.<br>
