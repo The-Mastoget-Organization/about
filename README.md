@@ -19,8 +19,8 @@ We use relays and processors so that the entire Mastoget system will not fall wh
 [Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)<br><br>  
 
 
-## Redirector
-Used to redirect main indexed traffic to the main processors or to the emergency processor.<br>
+## Landing Page (Formerly known as Redirectors)
+Used to transfer you to the processors.<br>
 ✓Mastoget - Vercel
 
 ## Main Processors
@@ -34,8 +34,8 @@ It gathers the data from a relay.<br>
 In case that the main processors are down, a processor located on the same server as the redirector. Its performance was not great but atleast its there to make sure that our system will avoid downtimes.<br>
 ✓Mastoget/Fallback - Vercel
 
-## Current Active Relays
-It gathers the data from various Mastodon instances.<br>
+## Current Active Renderers (Formerly known as Relays)
+It gathers the data from various Mastodon instances and displays it to your web browser.<br>
 ✓Masget1Vercel - Vercel<br>
 ✓Masget2Vercel - Vercel<br>
 ✓Masget3Vercel - Vercel<br>
