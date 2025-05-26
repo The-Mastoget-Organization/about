@@ -1,3 +1,5 @@
+### Announcement: "The Mastodon Organization" will shutdown its operations starting May 26, 2025 at around 4 to 8PM (UTC+8), in order to give way to its successor which is "Mastofetch" which is located on https://github.com/thedoggybrad/mastofetch. Do not worry, Mastoget will still be there but will be in the form of the new project named "Mastofetch" and all endpoints of Mastoget will soon redirect to Mastofetch. Thank you!
+
 [Go Back to Mastoget](https://mastoget.x10.bz)  
 
 # About Mastoget
